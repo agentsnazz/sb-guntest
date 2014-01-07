@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "money", "1" : 1 }
+  ],
+  "output" : {
+    "item" : "snazzgun",
+    "count" : 2
+  },
+  "groups" : [ "mod", "plain", "objects", "all" ]
+}
